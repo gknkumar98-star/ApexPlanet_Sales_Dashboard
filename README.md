@@ -55,6 +55,7 @@ Compared regional performance.
 Analyzed customer purchasing behavior.
 Highlighted opportunities for business improvement.
 ## Repository Structure
+```text
 ApexPlanet_Sales_Dashboard/
 │
 ├── Dashboard.pbix
@@ -66,6 +67,7 @@ ApexPlanet_Sales_Dashboard/
     ├── Dashboard_Overview.png
     ├── Sales_Analysis.png
     └── Product_Analysis.png
+```
 ## How to Use
 Download the .pbix file.
 Open it using Microsoft Power BI Desktop.
